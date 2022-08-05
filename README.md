@@ -10,3 +10,4 @@ This is not a production level application.
 
 ## Links
 [Securonix Web Services, SNYPR 6.4](https://documentation.securonix.com/onlinedoc/Content/6.4%20Cloud/Content/SNYPR%206.4/6.4%20Guides/Web%20Services/_6.4%20Web%20Services_Intro.htm)
+[Securonix.PowerShell.CLI](https://github.com/brian-reeder/Securonix.PowerShell.CLI)
